@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**jessbo2811/Jessbo2811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Jess
+I am an aspiring data analyst, specialising in SQL, and database design
 
-Here are some ideas to get you started:
+### My Toolkit
+- SQL Server
+- MySQL
+- Python
+- Java
+- JavaScript
+- HTML
+- CSS
+- PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Projects
+**HappyShop**
+A shopping interface with stock management, facilitating customer purchases.
+Built with Java and JavaFX
+
+**Banking-App**
+An ATM system built within a group where I was the project lead.
+Built with Java and JavaFX
