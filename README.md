@@ -1,6 +1,6 @@
 
 ## Hi, I'm Jess
-I am an aspiring data analyst, specialising in SQL, PHP, Web Development and database design
+I am an aspiring data analyst, specialising in SQL, PHP, Web Development and Database Design
 
 ### My Toolkit
 - SQL Server
